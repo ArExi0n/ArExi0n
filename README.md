@@ -6,7 +6,13 @@ I'm **Ansh** — a Developer & Entrepreneur who brings imagination to life.
 - 💻 Worked on **Stable Coin**, **E-commerce platforms**, **Ticket systems**, and more.
 - 🧠 Learning **AI/ML** and **Web3** to push my projects further.
 - 🛠️ Experienced in **Web3**, **Web Dev**, and **App Dev**.
-- 💬 Languages & Tools: *Rust*, *Next.js*, *Tailwind*, *Framer Motion*, *Lua* and more.
+## 🧠 Technologies
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+
 
 > I’ve built over 50 repositories (most private), focusing on real, working systems.
 
