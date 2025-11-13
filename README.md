@@ -1,52 +1,38 @@
-<!-- Profile README: ArExi0n -->
+<!-- Profile README: ArExi0n / Ansh -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ansh+👋;Developer+%2F+Entrepreneur;Web+Dev+%7C+Web3+%7C+AI;Minimalist.+Focused.+Creative." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+Ansh's+GitHub;Developer+%2F+Entrepreneur;Web+Dev+%7C+Web3+%7C+AI+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🖤 About Me
-I’m **Ansh** — a Developer & Entrepreneur who brings imagination to life.  
-I love building systems that mix **AI**, **Web3**, and **design**, with a focus on clarity and depth.
+## 🧭 About Me
+Hi, I’m **Ansh** — a Developer & Entrepreneur who brings imagination to life.  
+I love building systems that blend **AI**, **Web3**, and **automation** — turning ideas into working tech.
 
-- 🚀 Building **Crypto-Tracker**, an app predicting crypto surges and dips.  
-- 💻 Worked on **Stable Coin**, **E-commerce**, **Ticket Systems**, and more.  
-- 🧠 Exploring **AI/ML** & **Web3** to push projects beyond the usual.  
-- 🛠️ Experienced in **Web3**, **Web Dev**, and **App Dev**.  
+- 🚀 Currently building **Crypto-Tracker**, an app that predicts crypto dips & surges.  
+- 💻 Worked on **Stable Coin**, **E-commerce**, and **Ticket Handling Systems**.  
+- 🧠 Learning **AI/ML** & **Web3** to level up my builds.  
+Technologies
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
 
-> *Simplicity is the most advanced form of design.*
-
----
-
-## ⚙️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,framer,lua,python,react,ts,figma" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=AAAAAA&center=true&vCenter=true&width=420&lines=Rust+%7C+Next.js+%7C+Tailwind+%7C+Lua;AI+%2F+ML+%7C+Web3+%7C+Automation" alt="Skills" />
-</p>
+> *I’ve built 50+ projects (many private), each one a new experiment in design, speed, and function.*
 
 ---
 
-## 🧩 Setup
-**Editors:** Neovim *(LazyVim / Packer)* • VS Code  
-**Devices:** MacBook M4 Pro • Logitech G304 Pro • Aula F87 Keyboard  
+## 🛠 Setup & Gear
+- **Editors:** Neovim (LazyVim / Packer), VS Code  
+- **Devices:** MacBook M4 Pro, Logitech G304 Pro, Aula F87 Keyboard  
+- **Focus:** Web, Web3, AI, Automation  
 
 ---
 
-## 🎨 Aesthetics
-I enjoy crafting minimalist configs, clean interfaces, and efficient systems.  
-Design and logic go hand in hand — everything should feel smooth, intentional, and alive.
+## 🎨 Hobbies
+Customizing configs, reading, design, and learning new systems.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer&fontColor=FFFFFF" />
-</p>
-
-<p align="center">
-  <i>“Black, white, and purpose — nothing else.”</i>
-</p>
+<p align="center"><i>“Keep it simple. Make it powerful.”</i></p>
