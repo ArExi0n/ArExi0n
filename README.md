@@ -1,42 +1,99 @@
-<!-- Profile README: ArExi0n / Ansh -->
+import { motion } from "framer-motion";
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+Ansh's+GitHub;Developer+%2F+Entrepreneur;Web+Dev+%7C+Web3+%7C+AI+%7C+Automation" alt="Typing SVG" />
-</p>
+export default function Intro() {
+  return (
+    <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6 font-mono">
+      {/* Typing intro */}
+      <motion.h1
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 1 }}
+        className="text-3xl md:text-4xl text-center mb-4"
+      >
+        👋 Hey there, I'm <span className="font-bold">Ansh</span>
+      </motion.h1>
 
----
+      {/* Subtitle */}
+      <motion.h2
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.2, duration: 1 }}
+        className="text-xl text-gray-300 mb-10 text-center"
+      >
+        Developer / Entrepreneur — Bringing imagination to life.
+      </motion.h2>
 
-## 🧭 About Me
-Hi, I’m **Ansh** — a Developer & Entrepreneur who brings imagination to life.  
-I love building systems that blend **AI**, **Web3**, and **automation** — turning ideas into working tech.
+      {/* About */}
+      <motion.section
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.4, duration: 1 }}
+        className="max-w-2xl text-sm text-gray-400 leading-relaxed space-y-3"
+      >
+        <p>
+          🚀 Currently building <strong>Crypto-Tracker</strong> — an app that helps
+          predict market surges and dips of major cryptocurrencies.
+        </p>
+        <p>
+          💡 Worked on <strong>Stable Coin</strong>, <strong>E-commerce</strong>,{" "}
+          <strong>Ticket Handler</strong>, and more.
+        </p>
+        <p>
+          🧠 Learning <strong>Web3</strong>, <strong>AI</strong>, and <strong>ML</strong>{" "}
+          while focusing on real-world applications.
+        </p>
+        <p>
+          💻 Passionate about efficient systems, fluid UI, and perfecting dev setups.
+        </p>
+      </motion.section>
 
-- 🚀 Currently building **Crypto-Tracker**, an app that predicts crypto dips & surges.  
-- 💻 Worked on **Stable Coin**, **E-commerce**, and **Ticket Handling Systems**.  
-- 🧠 Learning **AI/ML** & **Web3** to level up my builds.  
+      {/* Tech Stack */}
+      <motion.section
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.6, duration: 1 }}
+        className="mt-10 max-w-2xl text-center"
+      >
+        <h3 className="text-lg font-semibold mb-3 text-white/90">⚙️ Tech Stack</h3>
+        <p className="text-gray-400 text-sm leading-6">
+          <strong>Languages:</strong> Rust · TypeScript · Lua · JSX · TSX  
+          <br />
+          <strong>Frameworks:</strong> Next.js · React · Tailwind CSS · Framer Motion  
+          <br />
+          <strong>Tools:</strong> Web3 · App Dev · APIs · Nvim (Packer + LazyVim) · VS Code
+        </p>
+      </motion.section>
 
-## Technologies
+      {/* Devices */}
+      <motion.section
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.8, duration: 1 }}
+        className="mt-10 text-center text-gray-400 text-sm"
+      >
+        <p>
+          💻 MacBook M4 Pro · 🖱️ Logitech G304 Pro · ⌨️ Aula F87 Keyboard
+        </p>
+      </motion.section>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,lua,python,react,ts,js,git" /><br><br>
-  <img src="https://img.shields.io/badge/Web-Development%20%2F%20ML-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/App-Development-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
+      {/* Hobbies */}
+      <motion.section
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 1, duration: 1 }}
+        className="mt-10 text-center text-gray-400 text-sm"
+      >
+        <h3 className="text-white/90 font-semibold mb-2">🎨 Hobbies</h3>
+        <p>Customizing configs · Reading · Exploring design and digital art</p>
+      </motion.section>
 
-> *I’ve built 50+ projects (many private), each one a new experiment in design, speed, and function.*
-
----
-
-## 🛠 Setup & Gear
-- **Editors:** Neovim (LazyVim / Packer), VS Code  
-- **Devices:** MacBook M4 Pro, Logitech G304 Pro, Aula F87 Keyboard  
-- **Focus:** Web, Web3, AI, Automation  
-
----
-
-## 🎨 Hobbies
-Customizing configs, reading, design, and learning new systems.
-
----
-
-<p align="center"><i>“Keep it simple. Make it powerful.”</i></p>
+      {/* Footer animation line */}
+      <motion.div
+        initial={{ scaleX: 0 }}
+        animate={{ scaleX: 1 }}
+        transition={{ delay: 1.2, duration: 1.5, ease: "easeInOut" }}
+        className="mt-12 w-40 h-[1px] bg-white/20 origin-left"
+      />
+    </main>
+  );
+}
