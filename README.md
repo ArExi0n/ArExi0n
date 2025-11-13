@@ -1,99 +1,72 @@
-import { motion } from "framer-motion";
+<!-- Profile README: ArExi0n / Ansh -->
 
-export default function Intro() {
-  return (
-    <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6 font-mono">
-      {/* Typing intro */}
-      <motion.h1
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 1 }}
-        className="text-3xl md:text-4xl text-center mb-4"
-      >
-        👋 Hey there, I'm <span className="font-bold">Ansh</span>
-      </motion.h1>
+<!-- Typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there👋,+I'm+Ansh;Developer+%2F+Entrepreneur;Bringing+Imagination+to+Life" alt="Typing SVG" />
+</p>
 
-      {/* Subtitle */}
-      <motion.h2
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.2, duration: 1 }}
-        className="text-xl text-gray-300 mb-10 text-center"
-      >
-        Developer / Entrepreneur — Bringing imagination to life.
-      </motion.h2>
+<!-- Divider line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header&reversal=true" width="60%" />
+</p>
 
-      {/* About */}
-      <motion.section
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.4, duration: 1 }}
-        className="max-w-2xl text-sm text-gray-400 leading-relaxed space-y-3"
-      >
-        <p>
-          🚀 Currently building <strong>Crypto-Tracker</strong> — an app that helps
-          predict market surges and dips of major cryptocurrencies.
-        </p>
-        <p>
-          💡 Worked on <strong>Stable Coin</strong>, <strong>E-commerce</strong>,{" "}
-          <strong>Ticket Handler</strong>, and more.
-        </p>
-        <p>
-          🧠 Learning <strong>Web3</strong>, <strong>AI</strong>, and <strong>ML</strong>{" "}
-          while focusing on real-world applications.
-        </p>
-        <p>
-          💻 Passionate about efficient systems, fluid UI, and perfecting dev setups.
-        </p>
-      </motion.section>
+<h3 align="center">👨‍💻 About Me</h3>
 
-      {/* Tech Stack */}
-      <motion.section
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.6, duration: 1 }}
-        className="mt-10 max-w-2xl text-center"
-      >
-        <h3 className="text-lg font-semibold mb-3 text-white/90">⚙️ Tech Stack</h3>
-        <p className="text-gray-400 text-sm leading-6">
-          <strong>Languages:</strong> Rust · TypeScript · Lua · JSX · TSX  
-          <br />
-          <strong>Frameworks:</strong> Next.js · React · Tailwind CSS · Framer Motion  
-          <br />
-          <strong>Tools:</strong> Web3 · App Dev · APIs · Nvim (Packer + LazyVim) · VS Code
-        </p>
-      </motion.section>
+<p align="center">
+  <samp>
+    Developer / Entrepreneur who loves turning imagination into reality through code.  
+    <br/><br/>
+    🚀 Currently building <b>Crypto-Tracker</b> — predicting surges & dips of crypto coins.<br/>
+    🧩 Worked on <b>Stable Coin</b>, <b>E-commerce</b>, and <b>Ticket Handler</b> platforms.<br/>
+    📘 Exploring <b>Web3</b>, <b>ML</b>, and <b>Scalable App Systems</b>.<br/>
+    💡 50+ repositories (many private) — driven by curiosity and precision.
+  </samp>
+</p>
 
-      {/* Devices */}
-      <motion.section
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.8, duration: 1 }}
-        className="mt-10 text-center text-gray-400 text-sm"
-      >
-        <p>
-          💻 MacBook M4 Pro · 🖱️ Logitech G304 Pro · ⌨️ Aula F87 Keyboard
-        </p>
-      </motion.section>
+<!-- Subtle fade animation divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=footer" width="60%" />
+</p>
 
-      {/* Hobbies */}
-      <motion.section
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 1, duration: 1 }}
-        className="mt-10 text-center text-gray-400 text-sm"
-      >
-        <h3 className="text-white/90 font-semibold mb-2">🎨 Hobbies</h3>
-        <p>Customizing configs · Reading · Exploring design and digital art</p>
-      </motion.section>
+<h3 align="center">🧠 Tech Stack</h3>
 
-      {/* Footer animation line */}
-      <motion.div
-        initial={{ scaleX: 0 }}
-        animate={{ scaleX: 1 }}
-        transition={{ delay: 1.2, duration: 1.5, ease: "easeInOut" }}
-        className="mt-12 w-40 h-[1px] bg-white/20 origin-left"
-      />
-    </main>
-  );
-}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,typescript,nextjs,react,tailwind,framer,lua,web3,neovim,vscode,nodejs,ts,jsx,tsx&theme=dark" />
+</p>
+
+<p align="center">
+  <samp>
+    I craft elegant apps with <b>Next.js + Tailwind + Framer Motion</b>.<br/>
+    I code fast, test deeper, and optimize endlessly.
+  </samp>
+</p>
+
+<!-- Animated wave divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=70&section=footer" />
+</p>
+
+<h3 align="center">🎨 Hobbies & Tools</h3>
+
+<p align="center">
+  <samp>
+    Customizing my config · Reading · Design experiments<br/>
+    <br/>
+    💻 MacBook M4 Pro · 🖱️ Logitech G304 Pro · ⌨️ Aula F87 Keyboard
+  </samp>
+</p>
+
+<!-- Fade animation GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArExi0n&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="50%" />
+</p>
+
+<!-- Animated contribution graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArExi0n&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="90%" />
+</p>
+
+<!-- Outro minimal animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!;Let's+Build+Something+Extraordinary⚡" alt="Typing SVG" />
+</p>
