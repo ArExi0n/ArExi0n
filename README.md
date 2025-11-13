@@ -1,60 +1,67 @@
-<!-- Profile README: ArExi0n / Ansh -->
+<!-- Profile README: ArExi0n -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+Ansh's+GitHub;Developer+%2F+Entrepreneur;Web+Dev+%7C+Web3+%7C+AI+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ansh+👋;Developer+%2F+Entrepreneur;Web3+%7C+AI+%7C+Automation;Always+Building+Something+New..." alt="Typing SVG" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0d1117&text=Welcome%20to%20My%20World%20🌌&fontColor=ffffff&fontAlignY=35" />
+</p>
 
 ## 🧭 About Me
 Hi, I’m **Ansh** — a Developer & Entrepreneur who brings imagination to life.  
-I love building systems that blend **AI**, **Web3**, and **automation** — turning ideas into working tech.
+I build systems that blend **AI**, **Web3**, and **automation**, turning concepts into living tools.
 
-- 🚀 Currently building **Crypto-Tracker**, an app that predicts crypto dips & surges.  
-- 💻 Worked on **Stable Coin**, **E-commerce**, and **Ticket Handling Systems**.  
-- 🧠 Learning **AI/ML** & **Web3** to level up my builds.  
-- 🔧 Building with **Rust**, **Next.js**, **Tailwind**, **Framer Motion**, **Lua**, and more.  
+- 🚀 Building **Crypto-Tracker** — an app predicting crypto surges & dips.  
+- 💻 Worked on **Stable Coin**, **E-commerce**, **Ticket Systems**, and more.  
+- 🧠 Exploring **AI/ML** and **Web3** deeply to push what’s possible.  
+- 🛠️ Experienced in **Web3**, **Web Dev**, and **App Dev** across multiple stacks.  
 
-> *I’ve built 50+ projects (many private), each one a new experiment in design, speed, and function.*
+> ⚡ *Over 50 repositories built (many private) — I focus on tools that actually work.*
 
 ---
 
-## ⚙️ Tech Stack
+### 🧠 Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/FramerMotion-000000?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,framer,lua,python,react,ts,git" /><br><br>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Setup
+**Editors:** VS Code • Neovim *(Packer + LazyVim)* — fully customized configs.  
+**Devices:** MacBook M4 Pro • Logitech G304 Pro • Aula F87 Keyboard  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArExi0n&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArExi0n&theme=radical&hide_border=true&background=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArExi0n&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ffb86c&title_color=ff79c6" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ArExi0n&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArExi0n&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArExi0n&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ffb86c&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🛠 Setup & Gear
-- **Editors:** Neovim (LazyVim / Packer), VS Code  
-- **Devices:** MacBook M4 Pro, Logitech G304 Pro, Aula F87 Keyboard  
-- **Focus:** Web, Web3, AI, Automation  
+### 🎨 Hobbies
+Customizing my configs, designing efficient systems, reading, and exploring new creative frameworks.
 
 ---
 
-## 🎨 Hobbies
-Customizing configs, reading, design, and learning new systems.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d1117&section=footer" />
+</p>
 
----
-
-<p align="center"><i>“Keep it simple. Make it powerful.”</i></p>
+<p align="center">
+  <i>“Keep it simple. Make it powerful.”</i>
+</p>
