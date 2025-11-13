@@ -16,19 +16,11 @@ I love building systems that blend **AI**, **Web3**, and **automation** — turn
 
 ## Technologies
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
-![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=nextdotjs)
-![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=nextdotjs)
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,lua,python,react,ts,js,git" /><br><br>
-  <img src="https://img.shields.io/badge/Web-Dev%20%2F%20ML-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Development%20%2F%20ML-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/App-dev-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/App-Development-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 > *I’ve built 50+ projects (many private), each one a new experiment in design, speed, and function.*
