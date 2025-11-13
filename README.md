@@ -13,6 +13,7 @@ I love building systems that blend **AI**, **Web3**, and **automation** — turn
 - 🚀 Currently building **Crypto-Tracker**, an app that predicts crypto dips & surges.  
 - 💻 Worked on **Stable Coin**, **E-commerce**, and **Ticket Handling Systems**.  
 - 🧠 Learning **AI/ML** & **Web3** to level up my builds.  
+
 ## Technologies
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -20,6 +21,15 @@ I love building systems that blend **AI**, **Web3**, and **automation** — turn
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
 ![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=nextdotjs)
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=nextdotjs)
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,framer,lua,python,react,ts,git" /><br><br>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
 
 > *I’ve built 50+ projects (many private), each one a new experiment in design, speed, and function.*
 
