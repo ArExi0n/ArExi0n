@@ -1,67 +1,52 @@
 <!-- Profile README: ArExi0n -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ansh+👋;Developer+%2F+Entrepreneur;Web3+%7C+AI+%7C+Automation;Always+Building+Something+New..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ansh+👋;Developer+%2F+Entrepreneur;Web+Dev+%7C+Web3+%7C+AI;Minimalist.+Focused.+Creative." alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0d1117&text=Welcome%20to%20My%20World%20🌌&fontColor=ffffff&fontAlignY=35" />
-</p>
+## 🖤 About Me
+I’m **Ansh** — a Developer & Entrepreneur who brings imagination to life.  
+I love building systems that mix **AI**, **Web3**, and **design**, with a focus on clarity and depth.
 
-## 🧭 About Me
-Hi, I’m **Ansh** — a Developer & Entrepreneur who brings imagination to life.  
-I build systems that blend **AI**, **Web3**, and **automation**, turning concepts into living tools.
-
-- 🚀 Building **Crypto-Tracker** — an app predicting crypto surges & dips.  
+- 🚀 Building **Crypto-Tracker**, an app predicting crypto surges and dips.  
 - 💻 Worked on **Stable Coin**, **E-commerce**, **Ticket Systems**, and more.  
-- 🧠 Exploring **AI/ML** and **Web3** deeply to push what’s possible.  
-- 🛠️ Experienced in **Web3**, **Web Dev**, and **App Dev** across multiple stacks.  
+- 🧠 Exploring **AI/ML** & **Web3** to push projects beyond the usual.  
+- 🛠️ Experienced in **Web3**, **Web Dev**, and **App Dev**.  
 
-> ⚡ *Over 50 repositories built (many private) — I focus on tools that actually work.*
+> *Simplicity is the most advanced form of design.*
 
 ---
 
-### 🧠 Tech & Tools
+## ⚙️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,framer,lua,python,react,ts,git" /><br><br>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=rust,nextjs,tailwind,framer,lua,python,react,ts,figma" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=AAAAAA&center=true&vCenter=true&width=420&lines=Rust+%7C+Next.js+%7C+Tailwind+%7C+Lua;AI+%2F+ML+%7C+Web3+%7C+Automation" alt="Skills" />
 </p>
 
 ---
 
-### ⚙️ Setup
-**Editors:** VS Code • Neovim *(Packer + LazyVim)* — fully customized configs.  
+## 🧩 Setup
+**Editors:** Neovim *(LazyVim / Packer)* • VS Code  
 **Devices:** MacBook M4 Pro • Logitech G304 Pro • Aula F87 Keyboard  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArExi0n&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ffb86c&title_color=ff79c6" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=ArExi0n&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArExi0n&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ffb86c&area=true&hide_border=true" />
-</p>
-
----
-
-### 🎨 Hobbies
-Customizing my configs, designing efficient systems, reading, and exploring new creative frameworks.
+## 🎨 Aesthetics
+I enjoy crafting minimalist configs, clean interfaces, and efficient systems.  
+Design and logic go hand in hand — everything should feel smooth, intentional, and alive.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d1117&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <i>“Keep it simple. Make it powerful.”</i>
+  <i>“Black, white, and purpose — nothing else.”</i>
 </p>
