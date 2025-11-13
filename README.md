@@ -13,11 +13,13 @@ I love building systems that blend **AI**, **Web3**, and **automation** — turn
 - 🚀 Currently building **Crypto-Tracker**, an app that predicts crypto dips & surges.  
 - 💻 Worked on **Stable Coin**, **E-commerce**, and **Ticket Handling Systems**.  
 - 🧠 Learning **AI/ML** & **Web3** to level up my builds.  
-Technologies
+## Technologies
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
 ![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=nextdotjs)
 
 > *I’ve built 50+ projects (many private), each one a new experiment in design, speed, and function.*
 
