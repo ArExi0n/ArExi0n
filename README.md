@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Ansh
 
-I’m a developer and builder — combining **web**, **AI**, and **web3** to create systems that actually *work*.
+I’m a developer and builder — combining **Web Dev / App dev**, **AI**, and **Web3** to create systems that actually *work*.
 
 ### 🚀 What I’m Building
 - 💹 **AI-Driven Crypto Trading App** — detects dips, predicts recoveries, and automates alerts using ML.
