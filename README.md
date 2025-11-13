@@ -12,6 +12,7 @@ I'm **Ansh** — a Developer & Entrepreneur who brings imagination to life.
 
 ### ⚙️ Setup
 **Editors:** VS Code, Neovim (Packer & LazyVim) with custom configs ...
+
 **Devices:** MacBook M4 Pro, Logitech G304 Pro, Aula F87 Keyboard  
 
 ### 🎨 Hobbies
