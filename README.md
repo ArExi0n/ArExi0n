@@ -38,7 +38,10 @@
   <samp>
     I craft elegant apps with <b>Next.js + Tailwind + Framer Motion</b>.<br/>
     I code fast, test deeper, and optimize endlessly.
-  </samp>
+
+    And for backend and web3 I use Rust + Postgres + SQL.
+    I code to make code optimize
+   </samp>
 </p>
 
 <!-- Animated wave divider -->
