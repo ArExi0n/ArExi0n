@@ -1,6 +1,6 @@
 👋 Hey, I’m Anshkumar
 
-I’m a 13-year-old trying to figure out how the world works — mostly through a screen.
+I’m a 16-year-old trying to figure out how the world works — mostly through a screen.
 
 Right now I’m:
 
