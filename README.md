@@ -1,42 +1,23 @@
-👋 Hey, I’m Anshkumar
+# Ansh
 
-I’m a 16-year-old trying to figure out how the world works — mostly through a screen.
+16 year old progammer.
+On path to take Early High School Diploma.
+Currently working on a quantitative terminal/app and collage application.
 
-Right now I’m:
+---
+## Interested in
 
-📑 Working on a research paper on cryptography
+- Qunatitative programming.
+- Rust.
+- Web3.
+- Website and app developemnt.
+- Linux rice.
+- Qunatitative finance and maths.
 
-📈 Building a Web3 Alert App that helps people position & time the market better and take smarter trades
+## Currently reading and working
 
-💻 Obsessing over my Vim setup, productivity, and developer workflow
+- Quantitative terminal/app.
+- Quantitative Finance by Michael Brenndoerfer
+- Read people like a book by Patrick King.
 
-😎 I really enjoy:
-
-Talking to people who know more than me
-
-Getting recommendations
-
-Building things with others
-
-Learning stuff form experencied people
-
-🧐 Things I’m Into
-Web3 • Trading Systems • Cryptography • Web - Dev
-• NEXT.JS • Rust • Swift • APIs • Backend(Axum)
-• Linux • VimSystem Design 
-
-🛠️ Why I Build
-
-I like creating tools that people use and help them in any way.
-Long term, I want to deeply understand computer science, security, and decentralized technology and use that knowledge to build real products.
-
-Some of projects that I have built (btw some are private)
- • DEX
- • Stable Coin
- • E-commerce Website(for client which is active)
- • Transport Managing Desktop App(for a client )
-
-Fun Works
- • Minecraft plugins(contribuited in many of thems)
- • Nvim config
- • VS code Config
+contact anshkumar1752@gmail.com
