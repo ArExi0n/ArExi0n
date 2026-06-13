@@ -1,7 +1,9 @@
 # Ansh
 
 16 year old progammer.
+
 On path to take Early High School Diploma.
+
 Currently working on a quantitative terminal/app and collage application.
 
 ---
