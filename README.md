@@ -1,6 +1,6 @@
 # Ansh
 
-16 year old progammer.
+13 year old progammer.
 
 On path to take Early High School Diploma.
 
